@@ -1,0 +1,6 @@
+django
+gunicorn
+dj-database-url
+-e git+https://github.com/ZuluPro/flickr-pony.git#egg=flickr-pony
+psycopg2
+whitenoise
